@@ -1,1 +1,1 @@
-docker run --rm --name ant frekele/ant
+docker run --rm --name ant appsassociates/ant

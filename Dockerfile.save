@@ -1,8 +1,8 @@
-FROM openjdk:8
+FROM frekele/java:jdk8
 
-MAINTAINER Ramazan Kara <Ramazan.kara@appsassociates.com>
+MAINTAINER ramazan.kara@appsassociates.com
 
-ENV ANT_VERSION=1.10.7
+ENV ANT_VERSION=1.10.3
 ENV ANT_HOME=/opt/ant
 
 # change to tmp folder

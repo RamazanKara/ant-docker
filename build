@@ -1,1 +1,1 @@
-docker build -t frekele/ant .
+docker build -t appsassociates/ant .
